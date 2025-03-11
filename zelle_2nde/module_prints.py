@@ -1,6 +1,6 @@
-import math
+import math #math 
 
-import os
+import os #operating system
 
 print(math)
 
