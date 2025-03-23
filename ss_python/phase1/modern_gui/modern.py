@@ -41,4 +41,6 @@ login_btn.pack(pady = 12, padx = 10)
 #checkbox
 btn_check = ctk.CTkCheckBox(master = frame, text="Remember Me")
 #checkbox appearance
+btn_check.pack(pady = 12, padx = 10)
 
+root.mainloop()
