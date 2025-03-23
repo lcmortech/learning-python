@@ -67,21 +67,25 @@ for num in [9, 41, 12, 3, 74, 15]:
 	
 print(avg)
 
-
+# EXTRA (FIZZBUZZ)
 def fizzbuzz(nums):
 	
 	for num in nums:
-		match num % 2:
-			case 0:
-				print("fizz")
-			case 1:
-				print("buzz")
-			case _:
-				print("neither")
+		if type(num) == int:
+			match num % 2:
+				case 0:
+					print("fizz")
+				case 1:
+					print("buzz")
+				case _:
+					print("neither")
+		elif type(num) != int:
+			print("not a valid number")
+				
 				
 	print(num)
 	
-fizzbuzz([6,2,9,"fan"])
+fizzbuzz([6,2,9,"fan",5])
 	
 		
 		
