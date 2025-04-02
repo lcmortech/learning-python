@@ -70,24 +70,29 @@ print(avg)
 # EXTRA (FIZZBUZZ)
 def fizzbuzz(nums):
 	
-	for num in nums:
-		if type(num) == int:
-			match num % 2:
-				case 0:
-					print("fizz")
-				case 1:
-					print("buzz")
-				case _:
-					print("neither")
-		elif type(num) != int:
-			print("not a valid number")
+
+		for num in nums:
+			try:
+				match num % 2:
+					case 0:
+						print("fizz")
+					case 1:
+						print("buzz")
+					case _:
+						print("neither")
+			except:
+				print("not   a valid number")								
 				
-				
-	print(num)
+	#print(num)
 	
 fizzbuzz([6,2,9,"fan",5])
 	
-		
+# SQUARE ROOT
+def sqroot(num):
+	ans = num **(1/2)
+	return ans
+	
+print(int(sqroot(9)))	
 		
 		
 
