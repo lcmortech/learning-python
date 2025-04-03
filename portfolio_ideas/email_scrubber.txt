@@ -5,7 +5,8 @@ modules:
 - smtplib
 - iamp
 - selenium
+- sqlite
 
 actions(functions)
 - add email address to spam list
--   if email address exists in 
+-   if email address exists in dictionary, remove email 
