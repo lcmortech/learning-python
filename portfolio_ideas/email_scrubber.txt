@@ -11,3 +11,4 @@ actions(functions)
 - add email address to spam list
 -   if email address exists in dictionary, remove email 
 - remove email from spam list
+- add an unsubscribe button
