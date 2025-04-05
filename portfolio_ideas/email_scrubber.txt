@@ -12,3 +12,5 @@ actions(functions)
 -   if email address exists in dictionary, remove email 
 - remove email from spam list
 - add an unsubscribe button
+
+OOP Classes? Or just from json file?
