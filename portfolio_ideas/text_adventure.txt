@@ -1,0 +1,9 @@
+Story: TBA
+
+Choices:
+- will have an id
+- will be stored in a object/dictionary/json
+
+Player:
+- will be a class
+- Methods
