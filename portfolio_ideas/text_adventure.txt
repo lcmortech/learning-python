@@ -7,3 +7,6 @@ Choices:
 Player:
 - will be a class
 - Methods
+
+State Management:
+- Persisted using local or session storage (early version)
