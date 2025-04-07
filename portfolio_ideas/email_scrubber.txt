@@ -12,5 +12,8 @@ actions(functions)
 -   if email address exists in dictionary, remove email 
 - remove email from spam list
 - add an unsubscribe button
+- OOP Classes for functions/methods 
 
-OOP Classes? Or just from json file?
+Database for spam addresses:
+- SQLite
+- json file
