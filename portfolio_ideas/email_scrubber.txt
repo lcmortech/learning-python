@@ -1,7 +1,7 @@
 Description: A simple app with a GUI that takes an email address as input, adds it to a spam list, and deletes any email associated with that email address. Later option for unsubscribing will be added Later
 
 modules:
-- tkinter
+- tkinter (possibly customtk)
 - smtplib
 - iamp
 - selenium
