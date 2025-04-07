@@ -1,4 +1,5 @@
-Story: TBA
+Story: 
+You are on your way back from work as a cashier at the local general store in your small store. The skies are overcast and the bus you normally take is longer than usually to arrive. 
 
 Choices:
 - will have an id
