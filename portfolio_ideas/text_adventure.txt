@@ -1,6 +1,11 @@
 Story: 
 You are on your way back from work as a cashier at the local general store in your small store. The skies are overcast and the bus you normally take is longer than usually to arrive. 
 
+Routes:
+- Wait for the bus or decide to walk the extra mile
+- Stay on main path or take a shortcut through the quarry
+- Stop to take a closer look or continue on your way
+
 Choices:
 - will have an id
 - will be stored in a object/dictionary/json
