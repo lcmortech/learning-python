@@ -1,0 +1,8 @@
+Data Sources:
+
+
+Questions:
+- Which parrot populations are most vulnerable?
+- Where are they located?
+- Among which are most facing extinction in the next 20 years?
+- What possible efforts are being done to revival vulnerabale populations? (ie: spix macaw)
