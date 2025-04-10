@@ -2,9 +2,14 @@ Story:
 You are on your way back from work as a cashier at the local general store in your small store. The skies are overcast and the bus you normally take is longer than usually to arrive. 
 
 Routes:
-- Wait for the bus or decide to walk the extra mile
+- Wait for the bus
+- Decide to walk the extra mile
+- Walk back to the store and stay the night
+
+
 - Stay on main path or take a shortcut through the quarry
 - Stop to take a closer look or continue on your way
+- Contact the police or pretend you didn't see anything. Give it a proper burial (it's the least you can do)
 
 Choices:
 - will have an id
