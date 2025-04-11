@@ -10,10 +10,12 @@ Routes:
 - Stay on main path or take a shortcut through the quarry
 - Stop to take a closer look or continue on your way
 - Contact the police or pretend you didn't see anything. Give it a proper burial (it's the least you can do)
+- Take selfies with it, like a now-infamous social media influencer
 
 Choices:
 - will have an id
-- will be stored in a object/dictionary/json
+- some kind of simple code system: ex - #123 (route 1, choice 2, choice 3)
+- or, will be stored in a object/dictionary/json
 
 Player:
 - will be a class
