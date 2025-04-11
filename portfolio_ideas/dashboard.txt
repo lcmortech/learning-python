@@ -1,0 +1,1 @@
+- deciding between pure vanilla javascript or django
