@@ -1,0 +1,1 @@
+This is the fake company that all my portfolio projects will be based on (with the exception of the email_scrubber and eda reports). I figured it'd make them more interesting if they were inter-connected in some way.
