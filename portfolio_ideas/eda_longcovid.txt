@@ -1,0 +1,8 @@
+- Hosted on Kaggle (or Google CoLab)
+Data presented on Google Sheets (possibly Tableau)
+
+Questions:
+- Percentage
+- 5-year Prognosis on
+- Treatment effects
+- Risk factors (genetic)
