@@ -1,1 +1,8 @@
 This is the fake company that all my portfolio projects will be based on (with the exception of the email_scrubber and eda reports). I figured it'd make them more interesting if they were inter-connected in some way.
+
+
+Events: 
+- Click the login bar 5 times before the admin page signs up
+- Password will be the most commonly used word on the (visible page)
+- This takes us to an admin dashboard with the following: comments, complaints, resolutions, employee files (both current and "former")
+- company motto ("We is zytal to their success!)
