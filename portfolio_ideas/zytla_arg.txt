@@ -5,4 +5,6 @@ Events:
 - Click the login bar 5 times before the admin page signs up
 - Password will be the most commonly used word on the (visible page)
 - This takes us to an admin dashboard with the following: comments, complaints, resolutions, employee files (both current and "former")
-- company motto ("We is zytal to their success!)
+- company mottos keep changing each reload:
+    - "We is zytal to their success!"
+    - "There's no "y" in team but there is in Zytal!"
