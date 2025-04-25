@@ -10,3 +10,4 @@ Events:
     - "There's no "y" in team but there is in Zytal!"
     - Highlighting each complaint will reveal an additional message
     - a new account is revealed which changes the site to dark mode, making it easier to pick up more clues
+    - ties to old hospital maybe? (storywise)
