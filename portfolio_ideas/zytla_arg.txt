@@ -8,3 +8,4 @@ Events:
 - company mottos keep changing each reload:
     - "We is zytal to their success!"
     - "There's no "y" in team but there is in Zytal!"
+    - Highlighting each complaint will reveal an additional message
