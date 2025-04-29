@@ -12,3 +12,5 @@ Events:
     - a new account is revealed which changes the site to dark mode, making it easier to pick up more clues
     - ties to old hospital maybe? (storywise)
     - a secret page to a incident (still not sure how I'll unlock it)
+
+    
