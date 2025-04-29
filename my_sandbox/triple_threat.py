@@ -190,27 +190,16 @@ def start_game():
 	
 	print('Hello there! Welcome to Triple Threat! Would you like to play a round?')
 	#print('')
-	play_game = input('Enter Y/y to play, and N/n to get out of here!\n')
-	play_game = play_game.upper()
-		
-	if play_game == "Y":
-		play_turn()
-	elif play_game == "N":
-		print("Game Over")
-		return None
+	
+	while(play_game := input('Enter Y/y to play, and N/n to get out of here!\n').upper()) != 'Y':
+		return print("Game Over")
+	play_turn()
 	
 	while len(card_deck) > 1:		
 		
-		cont_game = input('Nice round! Care to try again?')
-		cont_game = cont_game.upper()	
-		
-		
-				
-		if cont_game == "Y":
-			play_turn()
-		elif cont_game == "N":
-			print("Game Over")
-			return None
+		while(play_game := input('Nice Round!, Care To Try Again?\n').upper()) != 'Y':
+			return print("Game Over")
+		play_turn()
 
 def end_game():
 	global my_score
