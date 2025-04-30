@@ -1,2 +1,2 @@
 - deciding between pure vanilla javascript or django
-- decided on next js
+- decided on next js w typescript
